@@ -1,1 +1,1 @@
-javascript:var last=document.lastModified;var x = prompt('最終更新日',last)
+javascript:var x = prompt('最終更新日',document.lastModified)
