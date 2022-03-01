@@ -1,0 +1,1 @@
+//javascript:(function(){%7B %09document.location.href = 'http://translate.google.com/translate?hl=ja&u=%27+escape(document.location.href) %7D )()';}
