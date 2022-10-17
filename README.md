@@ -1,9 +1,9 @@
 
 # Tlooks Bookmarklet Set
 
-This release includes four bookmarklet scripts that we find useful in our daily work. Each can be run by bookmarking "main.js" in your browser and calling the bookmarklet when needed.
+This repository includes four bookmarklet scripts that we find useful in our daily work. Each can be run by bookmarking "main.js" in your browser and calling the bookmarklet when needed.
 
-Here is a brief description of the four scripts included in this release.
+Here is a brief description of the four scripts included in this repository.
 
 * "Translate":This bookmarklet can be called to translate pages using Google Translate.
 * "last-mod":This bookmarklet can be called to display the date and time the site was last modified.
