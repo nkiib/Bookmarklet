@@ -1,3 +1,6 @@
+
+# Tlooks Bookmarklet Set
+
 This release includes four bookmarklet scripts that we find useful in our daily work. Each can be run by bookmarking "main.js" in your browser and calling the bookmarklet when needed.
 
 Here is a brief description of the four scripts included in this release.
@@ -8,3 +11,5 @@ Here is a brief description of the four scripts included in this release.
 * "tag auto gen".This bookmarklet can be called to generate an HTML hyperlink tag containing the site's title and URL.
 
 These scripts are recommended for use with UTF-8 and will not work with Shift-JIS at least. The only browsers that have been tested to work are Chrome and Safari, and may not work with Firefox or other browsers due to limitations.
+
+We're working for add more script in this　repository.
