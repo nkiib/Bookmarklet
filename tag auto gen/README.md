@@ -7,7 +7,7 @@
 <a href="http://nishikiout.ml/" title="NKIIB">NKIIB</a>
 ```
 
-和：「Tag Auto Gen」スクリプトは、閲覧中のWebサイトのURLとタイトルからHTMLのハイパーリンク（aタグ）を生成するブックマークレットです。
+「Tag Auto Gen」スクリプトは、閲覧中のWebサイトのURLとタイトルからHTMLのハイパーリンク（aタグ）を生成するブックマークレットです。
 
 # Bookmarklet Script
 
@@ -20,3 +20,4 @@ javascript:var%20url=location.href;var%20title=document.title;var%20linkTag%20='
 This script is recommended for UTF-8 encoded sites.
 
 このスクリプトはUTF-8エンコードを推奨しています。
+
