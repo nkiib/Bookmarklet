@@ -1,0 +1,1 @@
+javascript:var url=location.href;var title=document.title;var share_form = title + '\n' + url;var x = prompt('',share_form);

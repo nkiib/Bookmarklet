@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Test</title>
+        <meta http-equiv="Content-Script-Type" content="text/javascript">
+    </head>
+    <body>
+        <h1>ブックマークレット実行テスト</h1>
+    <hr>
+    <ul>
+        <li><a href="javascript:(function(d,s){s=d.createElement('process');s.src='https://dl.dropboxusercontent.com/s/s6sj2z0gnpenbau/inyo.js';d.body.appendChild(s);})(document)">引用生成(/quote)</a></li>
+        <li><a href="javascript:(function() %7B %09document.location.href = 'http://translate.google.com/translate?hl=ja&u=%27+escape(document.location.href) %7D )();">翻訳(/Translate)</a></li>
+    </ul>
+    </body>
+</html>
