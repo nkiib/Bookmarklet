@@ -1,5 +1,5 @@
 
-# Tlooks Bookmarklet Set
+# Tlooks Bookmarklet Bundle
 
 This repository includes four bookmarklet scripts that we find useful in our daily work. Each can be run by bookmarking "main.js" in your browser and calling the bookmarklet when needed.
 
